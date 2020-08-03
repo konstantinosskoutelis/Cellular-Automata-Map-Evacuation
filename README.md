@@ -4,7 +4,7 @@
 
 The following project was part of a university assignment, taken a step further and improving some crucial aspects of our project, mostly regarding visualization and preprocessing. <br> The team consisted of 2 members :
 
-- [Aslanidis Antonis](https://github.com/konstantinosskoutelis)
+- [Aslanidis Antonis](https://github.com/antonyaslan)
 - [Konstantinos Skoutelis](https://github.com/konstantinosskoutelis)
 
 The assignment could be broken down into 3 parts:
