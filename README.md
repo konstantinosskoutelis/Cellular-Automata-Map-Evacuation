@@ -19,7 +19,7 @@ Functionality of each one is explained in below.
 
 The whole procedure could be explained in short from the shape below. Basically the _circular shapes_ describe the Hardware FSM ( implemented in SystemVerilog) and the _rectangular shapes_ are the Python Notebooks Used for Data Preprocessing & Analysis from left to right, respectively.
 ![FSM](/media/fsm.png)
-Specifically, the first Python Notebook in _Part A_ will create 2 memory files _[mem.sv](MEM_LINK)_ & _[weights.sv](WEIGHTS_LINK)_ , which will be in a ready-to-use memory format for our hardware implementation. After the hardware is simulation is complete, we export our grid values in relation to the simulation time, and use it as our input, for our Data Analysis notebook, which will convert the values to a sequence of frames and finally export it in a _.gif _ format, basically visualizing our evacuation algorithm.
+Specifically, the first Python Notebook in _Part A_ will create 2 memory files _[mem.sv](MEM_LINK)_ & _[weights.sv](WEIGHTS_LINK)_ , which will be in a ready-to-use memory format for our hardware implementation. After the hardware is simulation is complete, we export our grid values in relation to the simulation time, and use it as our input, for our Data Analysis notebook, which will convert the values to a sequence of frames and finally export it in a _.gif_ format, basically visualizing our evacuation algorithm.
 
 ## Part A - Data Preprocessing
 
